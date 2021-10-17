@@ -1,5 +1,7 @@
 body {
     font-family:Arial, Sans-Serif;
+    background-color: aliceblue;
+    color:black;
 }
 .clearfix:before, .clearfix:after{
     content: "";
